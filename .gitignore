@@ -11,4 +11,4 @@ Nioh_Internal/
 Nioh_Internal/.vs/
 Nioh_Internal/Nioh_Internal/x64
 Nioh_Internal/Nioh_Internal/x86
-.aps
+*.aps

@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Nioh_Internal.vcxproj" />
+  <Project Path="Nioh_Internal.vcxproj" Id="a182f14f-a24e-4f17-8695-13ab5eb15376" />
 </Solution>
