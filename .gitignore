@@ -1,0 +1,14 @@
+.vs/
+.env
+Release/x64
+Debug/x64
+Release/x86
+Debug/x86
+x64/
+x86/
+*.vcxproj.user
+Nioh_Internal/
+Nioh_Internal/.vs/
+Nioh_Internal/Nioh_Internal/x64
+Nioh_Internal/Nioh_Internal/x86
+.aps
